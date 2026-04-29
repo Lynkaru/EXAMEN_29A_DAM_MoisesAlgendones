@@ -14,5 +14,7 @@ public class Principal {
 		} else {
 			System.out.println("El número no es primo");
 		} // fin if
+		
+		System.out.println("Los divisores de " + num + " son: -------------");
 	}// fin main
 }
